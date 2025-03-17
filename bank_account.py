@@ -81,7 +81,6 @@ class CurrentAccount(BankAccount):
     def __init__(self, name, balance=0):
         super().__init__(name, "Current", balance)
 
-# Sample Run (Easy to Understand)
 print("Welcome to Simple Bank System!\n")
 print("🏦 Bank Options:")
 print("1️⃣ Open an Account")
