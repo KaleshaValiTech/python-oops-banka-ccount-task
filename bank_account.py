@@ -111,43 +111,6 @@ acc1.apply_interest()
 acc1.get_transaction_history()
 BankAccount.get_total_accounts()
 
-Sample Output:-
--------------
 
-Welcome to Simple Bank System!
-
-🏦 Bank Options:
-1️⃣ Open an Account
-2️⃣ Deposit Money
-3️⃣ Withdraw Money
-4️⃣ Transfer Money
-5️⃣ Check Balance
-6️⃣ View Transaction History
-
-🏦 Total bank accounts: 0
-
-Available Accounts:
-
-Enter your name for Savings Account: Alice
-✅ New Savings account created for Alice.
-
-Enter your name for Current Account: Bob
-✅ New Current account created for Bob.
-
-💰 Deposited ₹3000. New balance: ₹8000
-
-💸 Withdrew ₹2000. New balance: ₹5990
-
-🔄 Transferred ₹1000 to Bob.
-
-📈 Interest added: ₹399.5. New balance: ₹6389.5
-
-📜 Transaction History:
-2025-03-17 12:45:00: Deposited ₹3000
-2025-03-17 12:45:10: Withdrew ₹2000 (Fee ₹10)
-2025-03-17 12:45:20: Transferred ₹1000 to Bob
-2025-03-17 12:45:30: Interest added ₹399.5
-
-🏦 Total bank accounts: 2
 
 
